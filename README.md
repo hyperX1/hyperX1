@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperX1
 - 👀 I’m interested in developing cross platform apps on Flutter!
-- 🌱 I’m currently learning my last year of graduation in CS!
+- 🌱 I’m currently working at Pie Solutions LLC as a Flutter Developer!
 - 📫 How to reach me? Social contacts are already given to all!
 
 <!---
