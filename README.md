@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyperX1
 - 👀 I’m interested in developing cross platform apps on Flutter!
-- 🌱 I’m currently working at Vinncorp as a Software Engineer!
+- 🌱 I’m currently based from California, USA
 - 📫 How to reach me? Social contacts are already given to all!
 
 <!---
